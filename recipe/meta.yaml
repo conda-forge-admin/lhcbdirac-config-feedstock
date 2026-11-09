@@ -2,7 +2,7 @@
 
 package:
   name: {{ name|lower }}
-  version: "2025.04.07"
+  version: "2026.11.09"
 
 build:
   noarch: generic
