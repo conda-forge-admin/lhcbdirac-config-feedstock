@@ -1,10 +1,7 @@
 schema_version: 1
 
-context:
-  name: lhcbdirac-config
-
 package:
-  name: ${{ name|lower }}
+  name: lhcbdirac-config
   version: "2026.11.14"
 
 build:
